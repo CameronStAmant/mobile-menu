@@ -1,0 +1,14 @@
+#nav1 {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  border: solid;
+}
+
+#nav1 > div {
+  border: solid green;
+  width: 33%;
+  text-align: center;
+  background: white;
+}
